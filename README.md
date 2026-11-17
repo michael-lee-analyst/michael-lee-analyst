@@ -22,4 +22,4 @@ E-commerce nearly tripled, but stores still win 93% of sales. A 3-page dashboard
 
 ![Tableau dashboard](https://github.com/michael-lee-analyst/toronto-311-service-requests/blob/main/Images/dashboard.png?raw=true)
 
-➡️ [View project](https://github.com/michael-lee-analyst/toronto-311-service-requests) · [Live dashboard on Tableau Public](PASTE-TABLEAU-PUBLIC-LINK)
+➡️ [View project](https://github.com/michael-lee-analyst/toronto-311-service-requests) · [Live dashboard on Tableau Public](https://public.tableau.com/app/profile/michael.lee4471/viz/Toronto311_17931763684290/Toronto311)
